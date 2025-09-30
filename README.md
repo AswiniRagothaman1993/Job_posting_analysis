@@ -9,8 +9,7 @@ salary_rate,salary_avg,salary_min,salary_max,salary_hourly,salary_yearly,salary_
 -- Total of 130 records.
 
 ## Project Structure:
-sql/ DDL.sql
-   / queries.sql
+
 
 ## Tools : SQL
 
@@ -20,5 +19,10 @@ The goal is to practice and showcase **SQL concepts** such as:
 - Common Table Expressions (CTE)
 - Filtering and grouping (WHERE, GROUP BY, HAVING)
 - Case statements (CASE WHEN)
+
+##  What’s in this Project
+- Table schema for job postings  
+- Exploratory queries  
+- KPI queries (top companies, skill demand, etc.)  
    
  
